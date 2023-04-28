@@ -7,7 +7,8 @@ I am a Junior Data scient, i can operate ML too. i have learn python morethan 2 
   
 ### 🧐 More About Me:
 
-- Nothing
+- Iam Python code enjoyer
+- I like to collab with someone about Data
 
 <br>
 
