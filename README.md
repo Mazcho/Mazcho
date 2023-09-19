@@ -1,5 +1,6 @@
 ## Hey 👋, MazCho!
-I am a Junior Data scient, i can operate ML too. i have learn python morethan 2 years and now im learning about data scient.
+Hello, my name is Nicholaus Verdhy Putranto. I am an Informatics Engineering student at Dian Nuswantoro University in Semarang.
+I have been studying the world of data and machine learning for 2 years. This is a portfolio that I am currently creating
 <br/>
 <br/>
 
