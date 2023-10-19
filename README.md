@@ -1,6 +1,6 @@
 ## Hey 👋, MazCho!
 Hello, my name is Nicholaus Verdhy Putranto. I am an Informatics Engineering student at Dian Nuswantoro University in Semarang.
-I have been studying the world of data and machine learning for 2 years. This is a portfolio that I am currently creating
+I have been studying the world of data and machine learning for 2 years. This is a portfolio that I am currently creating :D
 <br/>
 <br/>
 
