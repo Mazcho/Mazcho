@@ -9,7 +9,7 @@ I have been studying the world of data and machine learning for 2 years. This is
 ### 🧐 More About Me:
 
 - I graduated from the Hacktiv8 Indonesia bootcamp on June 30 2023
-- I am part of Research Center for Materials Informatics Universitas Dian Nuswantoro
+- I am part of Research Center for Materials Informatics Universitas Dian Nuswantoro Semarang
 - I am a private teacher for data mining, data science, machine learning, Python
 
 <br>
